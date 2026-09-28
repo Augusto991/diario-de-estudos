@@ -1,0 +1,11 @@
+DIÁRIO DE ESTUDOS — GITHUB PAGES
+
+Esta versão não usa Supabase nem banco de dados.
+
+1) Crie um repositório no GitHub.
+2) Envie o conteúdo desta pasta para a raiz do repositório.
+3) Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4) Abra o endereço gerado pelo GitHub Pages.
+5) No Android, use "Instalar app" / "Adicionar à tela inicial".
+
+Importante: os dados ficam no navegador através de localStorage. O site é hospedado pelo GitHub, mas notas e alterações não são compartilhadas automaticamente entre aparelhos.
